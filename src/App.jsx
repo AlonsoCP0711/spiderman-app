@@ -8,17 +8,18 @@ function App(){
     </div>
     <h3>Spiderman tambien conocido como el hombre araña, es el superheroe mas popular del mundo</h3>
     <div className='logo'>
-    <img src="/public/imagen.jpg"></img>
+    <img src="/imagen1.jpg"/>
+
     </div>
     <br /><br />
     <h2>Principales enemigos de Spider-man</h2>
     <div className="galeria">
     <br /><br />
-    <a href="https://es.wikipedia.org/wiki/Duende_Verde"><img src="/public/imagen2.jpg"></img></a>
-    <a href="https://es.wikipedia.org/wiki/Venom_(Marvel)"><img src="/public/imagen3.jpg"></img></a>
-    <a href="https://es.wikipedia.org/wiki/Thanos"><img src="/public/imagen4.jpg"></img></a>
-    <a href="https://es.wikipedia.org/wiki/Doctor_Octopus"><img src="/public/imagen5.jpg"></img></a>
-    <a href="https://es.wikipedia.org/wiki/Hombre_de_Arena"><img src="/public/imagen6.jpg"></img></a>
+    <a href="https://es.wikipedia.org/wiki/Duende_Verde"><img src="/imagen2.jpg" /></a>
+    <a href="https://es.wikipedia.org/wiki/Venom_(Marvel)"><img src="/imagen3.jpg" /></a>
+    <a href="https://es.wikipedia.org/wiki/Thanos"><img src="/imagen4.jpg" /></a>
+    <a href="https://es.wikipedia.org/wiki/Doctor_Octopus"><img src="/imagen5.jpg" /></a>
+    <a href="https://es.wikipedia.org/wiki/Hombre_de_Arena"><img src="/imagen6.jpg" /></a>
      </div>
      <br /><br />
     <h2 className="titt">HISTORIA DE SPIDERMAN (UCM)</h2>
@@ -37,8 +38,8 @@ function App(){
     </div>
     <div className="pelicula">
       <br /><br />
-      <img src="/public/imagen7.jpg"></img>
-      <img src="/public/imagen8.jpg"></img>
+      <img src="/imagen7.jpg" />
+      <img src="/imagen8.jpg" />
     </div>
     <div className="creacion">
       <h2>CREACION DE SPIDERMAN</h2>
@@ -52,26 +53,26 @@ function App(){
       que el protagonista fuera el propio joven, enfrentando problemas reales como pagar la renta, lidiar con la escuela, 
       la timidez y la vida cotidiana, además de combatir el crimen.</p>
       <br /><br />
-      <img src="/public/imagen9.webp"></img>
+      <img src="/imagen9.webp" />
       <h3>La inspiración:</h3>
       <p>Se dice que a Stan Lee se le ocurrió la idea al ver una mosca trepar por una pared en su oficina. Pensó en nombres 
       como "Spider-Boy", "Insect-Man" y "Fly-Man", inclinándose finalmente por Spider-Man (añadiéndole el guion para que 
       no se confundiera con Superman de DC Comics).</p>
       <br /><br />
-      <img src="/public/imagen10.jpg"></img>
+      <img src="/imagen10.jpg" />
       <h3>El rechazo inicial de Marvel:</h3>
       <p>El dueño de Marvel Comics en ese momento, Martin Goodman, rechazó rotundamente la idea. Consideraba que "a la gente 
       le dan asco las arañas" y que un adolescente no podía ser un héroe principal. Sin embargo, le permitió a Lee publicar 
       la historia en la última edición del cómic Amazing Fantasy, una revista que estaba a punto de ser cancelada.</p>
       <br /><br />
-      <img src="/public/imagen11.jpg"></img>
+      <img src="/imagen11.jpg" />
       <br /><br />
       <h3>El éxito inesperado:</h3>
       <p>Cuando salieron las ventas de Amazing Fantasy #15, la edición se convirtió en uno de los mayores éxitos de la editorial. 
       Ante la enorme respuesta de los fans, Martin Goodman le pidió de inmediato a Stan Lee que creara una serie propia para el 
       personaje, lanzando en 1963 The Amazing Spider-Man, la cual se convirtió en la franquicia estrella de Marvel.</p>
       <br /><br />
-      <img src="/public/imagen12.jpg"></img>
+      <img src="/imagen12.jpg" />
       <br /><br />
       <footer className="footer">
         <a href="https://www.facebook.com/spiderman/?locale=es_LA">F</a>
