@@ -1,0 +1,111 @@
+h1{
+  color: red;
+  text-align: center;
+}
+
+h2{
+  margin-left: 35%;
+  color: red;
+}
+
+h3{
+ text-align: center;
+ color: black;
+}
+
+.galeria {
+  display: flex;            /* Alinea los elementos uno al lado del otro */
+  gap: 15px;                 /* Separa las imágenes entre sí */
+  justify-content: center;  /* (Opcional) Centra el grupo en la pantalla */
+  flex-wrap: wrap;          /* (Opcional) Baja las imágenes si no caben en la pantalla */
+}
+
+.galeria img {
+  width: 250px;              /* Le da un tamaño uniforme a cada imagen */
+  height: 250px;
+  object-fit: cover;         /* Evita que las imágenes se deformen */
+  border-radius: 8px;        /* Bordes redondeados */
+  border: 20px;
+}
+
+.logo img{
+  width: 80%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+body{
+  background-color: whitesmoke;
+  align-items: center;
+}
+
+p{
+  margin: auto;
+  width: 80%;
+  height: 80%;
+}
+
+.hist h2{
+  margin-left: 10%;
+  color: red;
+}
+
+.titt{
+  margin-left: 10%;
+}
+
+.pelicula img{
+  width: 700px;
+  height: 600px;
+  border-radius: 10px;
+}
+
+.pelicula{
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.heroe{
+  background-color: black;
+  padding: 10px;
+}
+
+.comic h3{
+  margin-right: 70%;
+  align-items: flex-start;
+}
+
+.comic img{
+  display: block;
+  height: auto;
+  float: left;
+  margin-left: 180px;
+  border-radius: 20px;
+  width: 500px;
+}
+
+body{
+  background-color: lavenderblush;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.footer {
+  width: 100%;
+  background-color: black;
+  padding: 15px;
+  text-align: center;
+  clear: both; 
+}
+
+/* Darle estilo y separación a los links del footer */
+.footer a {
+  color: red;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
