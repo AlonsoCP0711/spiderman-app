@@ -8,7 +8,7 @@ function App(){
     </div>
     <h3>Spiderman tambien conocido como el hombre araña, es el superheroe mas popular del mundo</h3>
     <div className='logo'>
-    <img src="/imagen1.jpg"/>
+    <img src="/imagen.jpg"/>
 
     </div>
     <br /><br />
